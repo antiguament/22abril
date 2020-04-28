@@ -2,3 +2,5 @@
 
 paginanueva
 renombre
+cada palabra vale
+
