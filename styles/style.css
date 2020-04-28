@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 
-/*--------------------------------------------*/
+/*-----------------22abril---------------------------*/
 
 :root {
   --blue: #007bff;
@@ -427,11 +427,11 @@ body
     margin-top: 80px;
     margin-left: 2.5px;
     text-align: center;
-    background-color: aliceblue;
+    *background-color: aliceblue;
     *font-family: 'Open Sans', sans-serif;
     *font-family: 'Montserrat', sans-serif;
     font-family: 'Indie Flower', cursive;
-    color: darkslateblue;
+    color:azure;
         
     
 }
@@ -448,13 +448,13 @@ body
     margin-top: 80px;
     margin-left: 2.5px;
     text-align: center;
-    background-color: aliceblue;
+    *background-color: aliceblue;
     *font-family: 'Open Sans', sans-serif;
     *font-family: 'Montserrat', sans-serif;
     font-family: 'Indie Flower', cursive;
     font-size: 46px;
     
-    
+    color:azure;
     
     }
    }
@@ -693,7 +693,7 @@ body
     border: .1px solid orange;
     border-radius: 5px;
     margin-top: 0px;
-    background-color: darkslateblue;
+    *background-color: darkslateblue;
     color: darkorange;
     
 }
@@ -709,7 +709,7 @@ body
     border: 2px solid purple;
     border-radius: 10px;
     margin-top: 5px;
-    background-color: aliceblue;
+    background-color: none;
     
     
     }
